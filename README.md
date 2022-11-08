@@ -1,16 +1,16 @@
-# flutter_statefull_widget
+# flutter_ui_sederhana_tugas
 
-A new Flutter project.
+Project Flutter untuk Tugas Mata Kuliah Pemrograman Mobile Pekan-10
 
-## Getting Started
+## Screenshot
+<p align="center">
+<img src="https://github.com/onynovianti/flutter_statefull_widget/blob/d1db7de10f38fa789cdc86cb862bfab88ae4c7a1/assets/1.jpg" width="300"/>
+</p>
 
-This project is a starting point for a Flutter application.
+<p align="center">
+<img src="https://github.com/onynovianti/flutter_statefull_widget/blob/d1db7de10f38fa789cdc86cb862bfab88ae4c7a1/assets/2.jpg" width="300"/>
+</p>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+<img src="https://github.com/onynovianti/flutter_statefull_widget/blob/d1db7de10f38fa789cdc86cb862bfab88ae4c7a1/assets/3.jpg" width="300"/>
+</p>
